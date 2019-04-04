@@ -1,1 +1,1 @@
-# coinbot
+# COINBOT
