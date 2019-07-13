@@ -6,4 +6,4 @@
   * 디스코드 봇 아이디 : 536095637368864779
   * 봇 라이브러리 : discord.py-0.16.12(구버전)
   * [Discord Bots](https://discordbots.org/bot/536095637368864779)
-  * 서포트 센터(지원 중단) : https://discordapp.com/invite/jCQrYPd
+  * [서포트 센터(지원 중단)](https://discordapp.com/invite/jCQrYPd)
