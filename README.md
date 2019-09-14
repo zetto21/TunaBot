@@ -5,7 +5,7 @@ TunaBot
 
 Do everything with a command.
 
-  * Recent Update | 2019.04.21
-  * Bot Client | discord.py-0.16.12 | Raspbian Stretch
-  * [Discord Bots](https://discordbots.org/bot/536095637368864779)
-  * Management | [Team Wonder.](https://discord.gg/xRnVEqd)
+  * Recent Update : 2019.04.21
+  * Bot Client : discord.py-0.16.12 | Raspbian Stretch
+  * Invite : [Discord Bots](https://discordbots.org/bot/536095637368864779)
+  * Management : [Team Wonder.](https://discord.gg/xRnVEqd)
